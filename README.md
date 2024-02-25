@@ -240,6 +240,8 @@ Live Hindustan Rss feed | https://feed.livehindustan.com/rss/3127 | https://www.
 ### 🇮🇷 Iran
 Source | Primary Feed Url | All Feeds 
 -------|------------------|---------- 
+
+آریاتندر-مناقصه‌ ها ، مزایده‌ ها و استعلام‌ های سراسر ایران -  AriaTender | https://ariatender.net/feed
 خبرگزاری باشگاه خبرنگاران - آخرین اخبار ایران و جهان - YJC | https://www.yjc.ir/fa/rss/allnews | https://www.yjc.ir/fa/rss 
 تابناک - TABNAK | https://www.tabnak.ir/fa/rss/allnews | https://www.tabnak.ir/fa/rss 
 خبرگزاری ایسنا - صفحه اصلی -  ISNA News Agency | https://www.isna.ir/rss | https://www.isna.ir/rss-help 
